@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/quentin.iml" filepath="$PROJECT_DIR$/quentin.iml" />
       <module fileurl="file://$PROJECT_DIR$/quentin-api/quentin-api.iml" filepath="$PROJECT_DIR$/quentin-api/quentin-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/quentin-biz/quentin-biz.iml" filepath="$PROJECT_DIR$/quentin-biz/quentin-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quentin-common/quentin-common.iml" filepath="$PROJECT_DIR$/quentin-common/quentin-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/quentin-dao/quentin-dao.iml" filepath="$PROJECT_DIR$/quentin-dao/quentin-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/quentin-service/quentin-service.iml" filepath="$PROJECT_DIR$/quentin-service/quentin-service.iml" />
     </modules>

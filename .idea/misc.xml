@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/quentin-biz/pom.xml" />
         <option value="$PROJECT_DIR$/quentin-service/pom.xml" />
         <option value="$PROJECT_DIR$/quentin-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/quentin-common/pom.xml" />
       </list>
     </option>
   </component>
